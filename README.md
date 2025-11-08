@@ -15,8 +15,8 @@
 ---
 
 ## 🚀 About Me  
-I’m actively building projects in **AI, Machine Learning, GenAI, Frontend Web Development, and Data Structures**.  
-Currently preparing for **FAANG-level internships and full-time roles** with a focus on **AI + SDE hybrid roles**.
+I'm actively building **AI, ML, GenAI, and Web Development** projects while mastering **DSA + system design**.  
+Focused on cracking **FAANG internship + full-time roles** and building a strong developer identity through real projects.
 
 ---
 
@@ -31,11 +31,11 @@ Currently preparing for **FAANG-level internships and full-time roles** with a f
 - scikit-learn  
 - TensorFlow / Keras  
 - PyTorch (learning)  
-- NLP, CNNs, Classic ML, Evaluation Metrics  
-- GenAI, embeddings, LLM concepts  
+- NLP, CNNs, Classic ML  
+- GenAI, embeddings, RAG basics  
 
 ### **Web Development**
-- HTML, CSS, JS  
+- HTML, CSS, JavaScript  
 - Streamlit, Flask  
 - Tailwind (learning)  
 
@@ -49,42 +49,37 @@ Currently preparing for **FAANG-level internships and full-time roles** with a f
 
 ## ⭐ Featured Projects  
 
-### 🌾 **Smart Crop Rotary Advisor**  
-ML-powered crop rotation suggestion system with prediction + analytics.  
-🔗 Repo: https://github.com/ka4382  
-*(Add your repo link here once pushed)*  
+### 🌾 **Smart Crop Rotatary Advisor**  
+ML-powered system to recommend optimal crop rotation using classical ML pipelines.  
+🔗 Repo: https://github.com/ka4382/Smart-Crop-Rotatary-Advisor  
 
 ---
 
 ### 🧠 **Resume Ranker AI**  
-A GenAI-based system to rank resumes against job descriptions using embeddings + scoring.  
-🔗 Repo: https://github.com/ka4382  
-*(Add your repo link here once pushed)*  
+Ranks resumes based on job descriptions using embeddings + ML/GenAI techniques.  
+🔗 Repo: https://github.com/ka4382/resume-ranker  
 
 ---
 
-### ⌨️ **Typing Game**  
-A fun typing speed game with leaderboard, Docker support, and multiple difficulty modes.  
-🔗 Repo: https://github.com/ka4382  
-*(Add your repo link here once pushed)*  
+### ⌨️ **Terminal Typing Game**  
+A fun terminal-based typing speed game with difficulty levels and real-time accuracy tracking.  
+🔗 Repo: https://github.com/ka4382/terminal-typing-game  
 
 ---
 
-### 📧 **Spam Mail Classifier**  
-A clean ML pipeline to detect spam vs ham with high accuracy.  
-🔗 Repo: https://github.com/ka4382  
-*(Add your repo link here once pushed)*  
+### 📧 **Spam Email Classifier**  
+ML pipeline to classify spam vs ham using NLP + vectorization + classifiers.  
+🔗 Repo: https://github.com/ka4382/spam-email-classifier  
 
 ---
 
 ### 🔢 **MNIST Handwritten Digit Classifier**  
-Deep learning model to classify handwritten digits with Streamlit demo support.  
-🔗 Repo: https://github.com/ka4382  
-*(Add your repo link here once pushed)*  
+Deep learning model for digit recognition with visualization + accuracy metrics.  
+🔗 Repo: https://github.com/ka4382/MNIST_Project  
 
 ---
 
-## 📈 GitHub Stats (optional)
+## 📈 GitHub Stats
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=ka4382&show_icons=true&theme=tokyonight" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ka4382&layout=compact&theme=tokyonight"/>
@@ -93,13 +88,13 @@ Deep learning model to classify handwritten digits with Streamlit demo support.
 ---
 
 ## 🎯 Current Goals
-- Building strong AI/ML + SDE hybrid projects  
-- Cracking FAANG-level internships  
-- Improving DSA mastery  
-- Building consistent GitHub activity  
+- Build strong AI/ML + SDE hybrid projects  
+- Prepare for FAANG internships  
+- Maintain consistent GitHub activity  
+- Improve DSA proficiency  
 
 ---
 
-## 💬 Connect with Me  
-If you'd like to collaborate on ML, GenAI, or Web Dev projects, feel free to reach out!
-
+## 💬 Connect With Me  
+If you'd like to collaborate on ML, GenAI, or Web Dev, reach out anytime.  
+I’m always excited to build cool things with smart people!
