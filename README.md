@@ -1,9 +1,8 @@
-<h1 align="center">Hey, I'm ak 👋</h1>
+<h1 align="center">Hey, I'm Karthik 👋</h1>
 
 <p align="center">
-  Student • C++ & Python • Frontend Developer • AI/ML & GenAI Enthusiast  
-  <br/>
-  Aiming for FAANG internships & full-time SDE/ML roles
+  <b>AI/ML Engineer in Progress • SDE Aspirant • Builder</b><br/>
+  C++ • Python • JavaScript • AI/ML • GenAI • Web Development  
 </p>
 
 <p align="center">
@@ -14,87 +13,186 @@
 
 ---
 
-## 🚀 About Me  
-I'm actively building **AI, ML, GenAI, and Web Development** projects while mastering **DSA + system design**.  
-Focused on cracking **FAANG internship + full-time roles** and building a strong developer identity through real projects.
+## 🚀 About Me
+
+I’m a **3rd-year student** actively building real-world projects in **AI, Machine Learning, GenAI, and Full Stack Development**.
+
+My focus is simple:
+
+* Build **impactful AI systems**
+* Master **DSA + system design**
+* Crack **FAANG-level internships & roles**
+
+I believe in **learning by building**, and every project here reflects that mindset.
+
+---
+
+## 🧠 What I’m Currently Doing
+
+* Building **AI-powered real-time systems**
+* Exploring **GenAI, embeddings, and RAG pipelines**
+* Practicing **DSA daily (C++)**
+* Developing **production-ready full-stack apps**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Languages**
-- C++
-- Python
-- JavaScript
+### 💻 Languages
 
-### **AI / ML**
-- scikit-learn  
-- TensorFlow / Keras  
-- PyTorch (learning)  
-- NLP, CNNs, Classic ML  
-- GenAI, embeddings, RAG basics  
+* C++
+* Python
+* JavaScript
 
-### **Web Development**
-- HTML, CSS, JavaScript  
-- Streamlit, Flask  
-- Tailwind (learning)  
+### 🤖 AI / ML
 
-### **Tools**
-- Git & GitHub  
-- VS Code  
-- Linux basics  
-- Docker (learning)  
+* scikit-learn
+* TensorFlow / Keras
+* PyTorch (learning)
+* NLP, CNNs, Classical ML
+* GenAI (Embeddings, RAG basics)
 
----
+### 🌐 Web Development
 
-## ⭐ Featured Projects  
+* HTML, CSS, JavaScript
+* Flask, Streamlit
+* Tailwind (learning)
 
-### 🌾 **Smart Crop Rotatary Advisor**  
-ML-powered system to recommend optimal crop rotation using classical ML pipelines.  
-🔗 Repo: https://github.com/ka4382/Smart-Crop-Rotatary-Advisor  
+### ⚙️ Tools
+
+* Git & GitHub
+* VS Code
+* Linux basics
+* Docker (learning)
 
 ---
 
-### 🧠 **Resume Ranker AI**  
-Ranks resumes based on job descriptions using embeddings + ML/GenAI techniques.  
-🔗 Repo: https://github.com/ka4382/resume-ranker  
+## ⭐ Featured Projects
+
+### 🏥 AI-Physio: Real-Time Rehabilitation Pose Assessment System
+
+Real-time physiotherapy posture correction system using computer vision and biomechanical analysis.
+
+* Pose detection using MediaPipe
+* Joint angle-based evaluation
+* Real-time visual + feedback system
+  🔗 https://github.com/ka4382/AI-Physio-Real-Time-Rehabilitation-Pose-Assessment-System
 
 ---
 
-### ⌨️ **Terminal Typing Game**  
-A fun terminal-based typing speed game with difficulty levels and real-time accuracy tracking.  
-🔗 Repo: https://github.com/ka4382/terminal-typing-game  
+### 🛡️ AI-Driven Synthetic Media Fraud Detection
+
+Detects manipulated media in insurance claims using AI techniques.
+
+* Focus on fraud detection in real-world scenarios
+* ML + frontend integration
+  🔗 https://github.com/ka4382/AI-Driven-Synthetic-Media-Fraud-Detection-for-Insurance-Claims
 
 ---
 
-### 📧 **Spam Email Classifier**  
-ML pipeline to classify spam vs ham using NLP + vectorization + classifiers.  
-🔗 Repo: https://github.com/ka4382/spam-email-classifier  
+### 🧠 Self-Pruning Neural Network (Tredence Case Study)
+
+Optimized neural network that dynamically prunes weights during training.
+
+* Improves efficiency and reduces model size
+* Research-oriented implementation
+  🔗 https://github.com/ka4382/self-pruning-neural-network_Tredence_CaseStudy
 
 ---
 
-### 🔢 **MNIST Handwritten Digit Classifier**  
-Deep learning model for digit recognition with visualization + accuracy metrics.  
-🔗 Repo: https://github.com/ka4382/MNIST_Project  
+### 🤖 Resume Ranker AI
+
+Ranks resumes based on job descriptions using embeddings + ML techniques.
+🔗 https://github.com/ka4382/resume-ranker
 
 ---
 
-## 📈 GitHub Stats
+### 🌾 Smart Crop Rotatory Advisor
+
+ML system for crop recommendation and rotation planning (99% accuracy).
+🔗 https://github.com/ka4382/Smart-Crop-Rotatary-Advisor
+
+---
+
+### 📧 Spam Email Classifier
+
+NLP-based spam detection using TF-IDF + Logistic Regression.
+🔗 https://github.com/ka4382/spam-email-classifier
+
+---
+
+### ⌨️ Terminal Typing Game
+
+CLI-based typing speed game with accuracy tracking and difficulty modes.
+🔗 https://github.com/ka4382/terminal-typing-game
+
+---
+
+## 📦 Other Notable Work
+
+* CLI To-Do App (Python)
+* Agentic AI Experiments
+* Guidwire 2026 (Collaborative Project)
+* Community Fitness Platform
+* Project Management Tool (Django)
+* MNIST Digit Classifier
+* Linear Regression Models
+* Flappy Bird Clone (Java)
+
+---
+
+## 📈 Contribution Activity
+
+### 🔥 2026 (Active Development Phase)
+
+* AI-Physio System
+* Synthetic Media Fraud Detection
+* Self-Pruning Neural Networks
+* Agentic AI Experiments
+* Guidwire Project
+
+### 💪 2025 (Foundation Building)
+
+* Smart Crop Advisor
+* Resume Ranker
+* Spam Classifier
+* Fitness Platform
+* Django Tools
+
+📊 Strong comeback with **consistent commits in April 2026**
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ka4382&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ka4382&layout=compact&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ka4382&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ka4382&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🎯 Current Goals
-- Build strong AI/ML + SDE hybrid projects  
-- Prepare for FAANG internships  
-- Maintain consistent GitHub activity  
-- Improve DSA proficiency  
+
+* Build **high-impact AI + SDE hybrid projects**
+* Strengthen **DSA for interviews**
+* Gain **internship at top tech companies**
+* Contribute to **real-world scalable systems**
 
 ---
 
-## 💬 Connect With Me  
-If you'd like to collaborate on ML, GenAI, or Web Dev, reach out anytime.  
-I’m always excited to build cool things with smart people!
+## 💬 Let's Connect
+
+If you're working on **AI, ML, GenAI, or full-stack systems**, let's collaborate.
+
+I’m always open to:
+
+* Building projects
+* Hackathons
+* Learning opportunities
+
+---
+
+<p align="center">
+  <b>“Consistency + Real Projects = Strong Career”</b>
+</p>
