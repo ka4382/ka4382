@@ -166,10 +166,9 @@ CLI-based typing speed game with accuracy tracking and difficulty modes.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ka4382&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ka4382&layout=compact&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ka4382&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ka4382&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
-
 ---
 
 ## 🎯 Current Goals
