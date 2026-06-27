@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I’m a **3rd-year student** actively building real-world projects in **AI, Machine Learning, GenAI, and Full Stack Development**.
+I’m a **4th-year student** actively building real-world projects in **AI, Machine Learning, GenAI, and Full Stack Development**.
 
 My focus is simple:
 
