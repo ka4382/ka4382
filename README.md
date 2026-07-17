@@ -584,8 +584,7 @@ AI Engineering
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ka4382&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=ka4382&theme=onedark"/>
 </p>
 
 ---
